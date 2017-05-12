@@ -1,0 +1,2 @@
+5
+INVALID INPUT!
